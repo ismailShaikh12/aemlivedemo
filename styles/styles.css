@@ -220,8 +220,8 @@ main .section.highlight {
 }
 
 
-@media (width : 900px){
-  .highlight .cards-wrapper .cards > ul > li .cards-card-body > p {
+@media (width < 900px){
+  .highlight .cards-wrapper .cards ul li .cards-card-body : first-child {
   display: none;
 }
 }
