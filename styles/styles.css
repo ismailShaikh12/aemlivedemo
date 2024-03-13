@@ -208,3 +208,10 @@ main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
 }
+/* card demo start here */
+
+.highlight .cards-wrapper .cards block ul{
+  display: flex;
+}
+
+
