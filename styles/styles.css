@@ -220,6 +220,12 @@ main .section.highlight {
 }
 
 
+@media (width >= 900px){
+  .highlight .cards-wrapper .cards > ul > li .cards-card-body > p {
+  display: none;
+}
+}
+
 
 
 
