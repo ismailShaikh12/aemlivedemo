@@ -210,8 +210,12 @@ main .section.highlight {
 }
 /* card demo start here */
 
-.highlight .cards-wrapper .cards > ul > li{
+.highlight .cards-wrapper .cards > ul > li:nth-child(even) {
   display: flex;
+  flex-direction: column-reverse;
 }
+
+
+
 
 
