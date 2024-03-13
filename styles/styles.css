@@ -211,7 +211,7 @@ main .section.highlight {
 /* card demo start here */
 
 .highlight .cards-wrapper .cards > ul:nth-child(even) {
-  background-color: #fer2d
+  background-color: pink
 }
 
 .highlight .cards-wrapper .cards > ul > li:nth-child(even) {
