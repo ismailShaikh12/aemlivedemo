@@ -210,7 +210,7 @@ main .section.highlight {
 }
 /* card demo start here */
 
-.highlight .cards-wrapper .cards > ul{
+.highlight .cards-wrapper .cards > ul > li{
   display: flex;
 }
 
