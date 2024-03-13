@@ -221,9 +221,9 @@ main .section.highlight {
 
 
 @media (width < 900px){
-  .highlight .cards-wrapper .cards ul li .cards-card-body:first-child {
-  display: none;
-}
+        .highlight .cards-wrapper .cards > ul > li .cards-card-body {
+        display: none;
+      }
 }
 
 
