@@ -226,7 +226,7 @@ main .section.highlight {
       }
 
   .highlight .cards-wrapper .cards ul li .cards-card-body{
-display : none
+     display : none
   }
 }
 
